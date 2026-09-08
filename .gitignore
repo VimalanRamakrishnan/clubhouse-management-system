@@ -1,0 +1,31 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ipch
+*.tlog
+
+# Restored dependencies
+packages/
+
+# Local and temporary files
+*.log
+*.tmp
+*.zip
+Thumbs.db
+.DS_Store
